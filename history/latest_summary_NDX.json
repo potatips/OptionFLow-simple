@@ -1,193 +1,193 @@
 {
   "ticker": "NDX",
-  "snapshot_utc": "2026-11-21T01:38:16+00:00",
-  "requested_snapshot_date": "2026-11-21",
-  "effective_snapshot_date": "2026-11-20",
-  "expiry": "2026-11-20",
-  "spot": 25065.4019,
+  "snapshot_utc": "2026-11-24T04:54:23+00:00",
+  "requested_snapshot_date": "2026-11-24",
+  "effective_snapshot_date": "2026-11-23",
+  "expiry": "2026-11-23",
+  "spot": 26746.0959,
   "days_to_expiry": 0,
   "years_to_expiry": 5.7077625570776254e-05,
   "rate": 0.04,
-  "net_gex": -2355856990.1983495,
-  "total_call_gex": 146090611.73253158,
-  "total_put_gex": -2501947601.9308805,
-  "gamma_wall_abs": 25000.0,
-  "gamma_wall_positive": 27125.0,
-  "call_resistance": 27000.0,
-  "put_support": 25000.0,
-  "gamma_flip": null,
-  "gamma_local_flip": 26683.584431422634,
-  "net_dex": -24918887211.423847,
-  "total_call_dex": 269002692.39808625,
-  "total_put_dex": -25187889903.821934,
-  "dex_wall_abs": 27500.0,
-  "dex_wall_positive": 22000.0,
-  "delta_flip": 23325.795180792895,
-  "net_vex": 2819265.5106097353,
-  "total_call_vex": 1522430.0146929177,
-  "total_put_vex": 1296835.4959168176,
-  "vanna_wall_abs": 25000.0,
-  "vanna_wall_positive": 25000.0,
+  "net_gex": 702154625.1730796,
+  "total_call_gex": 1144107309.7955446,
+  "total_put_gex": -441952684.622465,
+  "gamma_wall_abs": 26750.0,
+  "gamma_wall_positive": 26750.0,
+  "call_resistance": 26750.0,
+  "put_support": 26500.0,
+  "gamma_flip": 26740.92133677645,
+  "gamma_local_flip": 26722.81041023015,
+  "net_dex": 1343279270.4517763,
+  "total_call_dex": 2585986450.798682,
+  "total_put_dex": -1242707180.3469062,
+  "dex_wall_abs": 25775.0,
+  "dex_wall_positive": 25775.0,
+  "delta_flip": 23975.48747468897,
+  "net_vex": 6088286.984714823,
+  "total_call_vex": 4280276.257525544,
+  "total_put_vex": 1808010.7271892794,
+  "vanna_wall_abs": 26750.0,
+  "vanna_wall_positive": 26750.0,
   "vanna_flip": null,
-  "vanna_local_flip": 26683.4637123187,
-  "net_chex": 22579559670.288208,
-  "total_call_chex": -19237955409.96891,
-  "total_put_chex": 41817515080.25712,
-  "charm_wall_abs": 25000.0,
-  "charm_wall_positive": 25700.0,
-  "charm_flip": 25998.77875737464,
-  "charm_local_flip": 26683.57312580709,
+  "vanna_local_flip": 26740.509775693736,
+  "net_chex": -18960975079.215393,
+  "total_call_chex": -10615303998.512035,
+  "total_put_chex": -8345671080.70336,
+  "charm_wall_abs": 27500.0,
+  "charm_wall_positive": 25775.0,
+  "charm_flip": null,
+  "charm_local_flip": 26741.25237863208,
   "top_abs_gex_levels": [
     {
-      "strike": 25000,
-      "net_gex": -863168745.6729667,
-      "call_gex": 23033924.36652402,
-      "put_gex": -886202670.0394907,
-      "abs_net_gex": 863168745.6729667
+      "strike": 26750,
+      "net_gex": 310036258.517015,
+      "call_gex": 322668537.354979,
+      "put_gex": -12632278.83796397,
+      "abs_net_gex": 310036258.517015
     },
     {
-      "strike": 25100,
-      "net_gex": -228399093.2880867,
-      "call_gex": 0.0,
-      "put_gex": -228399093.2880867,
-      "abs_net_gex": 228399093.2880867
+      "strike": 27000,
+      "net_gex": 78584800.94884142,
+      "call_gex": 88177538.53565858,
+      "put_gex": -9592737.586817157,
+      "abs_net_gex": 78584800.94884142
     },
     {
-      "strike": 25200,
-      "net_gex": -123505120.6912889,
-      "call_gex": 3147649.9255789877,
-      "put_gex": -126652770.61686788,
-      "abs_net_gex": 123505120.6912889
+      "strike": 26760,
+      "net_gex": 72911337.79412052,
+      "call_gex": 72911337.79412052,
+      "put_gex": 0.0,
+      "abs_net_gex": 72911337.79412052
     },
     {
-      "strike": 24800,
-      "net_gex": -118477906.05796714,
-      "call_gex": 464542.9160926509,
-      "put_gex": -118942448.97405979,
-      "abs_net_gex": 118477906.05796714
+      "strike": 26500,
+      "net_gex": -59522128.6277298,
+      "call_gex": 17627631.76554999,
+      "put_gex": -77149760.39327979,
+      "abs_net_gex": 59522128.6277298
     },
     {
-      "strike": 25700,
-      "net_gex": -83372114.77165891,
-      "call_gex": 458163.89282311784,
-      "put_gex": -83830278.66448203,
-      "abs_net_gex": 83372114.77165891
+      "strike": 27500,
+      "net_gex": 36985677.02889108,
+      "call_gex": 38625040.34560553,
+      "put_gex": -1639363.316714453,
+      "abs_net_gex": 36985677.02889108
     },
     {
-      "strike": 24900,
-      "net_gex": -77495445.84711106,
-      "call_gex": 0.0,
-      "put_gex": -77495445.84711106,
-      "abs_net_gex": 77495445.84711106
+      "strike": 27160,
+      "net_gex": 33549628.84359647,
+      "call_gex": 33549628.84359647,
+      "put_gex": 0.0,
+      "abs_net_gex": 33549628.84359647
     },
     {
-      "strike": 25600,
-      "net_gex": -64953399.48408845,
-      "call_gex": 1944609.8715244073,
-      "put_gex": -66898009.35561286,
-      "abs_net_gex": 64953399.48408845
+      "strike": 26520,
+      "net_gex": 32834624.875848316,
+      "call_gex": 34313220.16098059,
+      "put_gex": -1478595.2851322738,
+      "abs_net_gex": 32834624.875848316
     },
     {
-      "strike": 25500,
-      "net_gex": -64246930.18999241,
-      "call_gex": 5069396.984366718,
-      "put_gex": -69316327.17435913,
-      "abs_net_gex": 64246930.18999241
+      "strike": 26740,
+      "net_gex": 29193733.238024,
+      "call_gex": 29193733.238024,
+      "put_gex": 0.0,
+      "abs_net_gex": 29193733.238024
     },
     {
-      "strike": 24500,
-      "net_gex": -63955117.92523052,
-      "call_gex": 4111743.9077627035,
-      "put_gex": -68066861.83299322,
-      "abs_net_gex": 63955117.92523052
+      "strike": 26180,
+      "net_gex": 22742963.633837435,
+      "call_gex": 23304280.422945533,
+      "put_gex": -561316.7891080984,
+      "abs_net_gex": 22742963.633837435
     },
     {
-      "strike": 24600,
-      "net_gex": -59529352.55145708,
-      "call_gex": 244094.22395405042,
-      "put_gex": -59773446.77541113,
-      "abs_net_gex": 59529352.55145708
+      "strike": 26770,
+      "net_gex": 22418699.234872594,
+      "call_gex": 26608196.505016647,
+      "put_gex": -4189497.270144054,
+      "abs_net_gex": 22418699.234872594
     }
   ],
   "top_abs_dex_levels": [
     {
-      "strike": 27500,
-      "net_dex": -2425246992.164301,
-      "call_dex": 10388706.70107571,
-      "put_dex": -2435635698.8653765,
-      "abs_net_dex": 2425246992.164301
+      "strike": 25775,
+      "net_dex": 697958484.4408941,
+      "call_dex": 698447251.5887816,
+      "put_dex": -488767.147887441,
+      "abs_net_dex": 697958484.4408941
     },
     {
-      "strike": 27000,
-      "net_dex": -1954931437.4143722,
-      "call_dex": 35589541.18253442,
-      "put_dex": -1990520978.5969067,
-      "abs_net_dex": 1954931437.4143722
+      "strike": 26000,
+      "net_dex": 198809570.21263647,
+      "call_dex": 217625407.20173225,
+      "put_dex": -18815836.989095774,
+      "abs_net_dex": 198809570.21263647
     },
     {
-      "strike": 28000,
-      "net_dex": -1300674471.1865425,
-      "call_dex": 815919.4096613124,
-      "put_dex": -1301490390.5962038,
-      "abs_net_dex": 1300674471.1865425
+      "strike": 26180,
+      "net_dex": 185943213.0771192,
+      "call_dex": 186487500.45044446,
+      "put_dex": -544287.3733252451,
+      "abs_net_dex": 185943213.0771192
     },
     {
-      "strike": 27200,
-      "net_dex": -1017858666.891557,
-      "call_dex": 12503097.61593118,
-      "put_dex": -1030361764.5074881,
-      "abs_net_dex": 1017858666.891557
+      "strike": 26520,
+      "net_dex": 153413194.29165992,
+      "call_dex": 154060936.02962035,
+      "put_dex": -647741.737960415,
+      "abs_net_dex": 153413194.29165992
+    },
+    {
+      "strike": 27050,
+      "net_dex": -58499180.900515854,
+      "call_dex": 311614.66277386126,
+      "put_dex": -58810795.56328972,
+      "abs_net_dex": 58499180.900515854
+    },
+    {
+      "strike": 27040,
+      "net_dex": -54694507.40543969,
+      "call_dex": 313425.8000092524,
+      "put_dex": -55007933.20544894,
+      "abs_net_dex": 54694507.40543969
+    },
+    {
+      "strike": 25175,
+      "net_dex": 48502997.36305702,
+      "call_dex": 49927709.53695981,
+      "put_dex": -1424712.1739027954,
+      "abs_net_dex": 48502997.36305702
     },
     {
       "strike": 25700,
-      "net_dex": -698586522.8116214,
-      "call_dex": 515984.5256444248,
-      "put_dex": -699102507.3372658,
-      "abs_net_dex": 698586522.8116214
+      "net_dex": 45363820.5084933,
+      "call_dex": 52343308.756567255,
+      "put_dex": -6979488.248073955,
+      "abs_net_dex": 45363820.5084933
     },
     {
-      "strike": 28400,
-      "net_dex": -643735516.7973298,
-      "call_dex": 192742.03555153141,
-      "put_dex": -643928258.8328813,
-      "abs_net_dex": 643735516.7973298
-    },
-    {
-      "strike": 29000,
-      "net_dex": -616547081.9082935,
-      "call_dex": 34906.51058538778,
-      "put_dex": -616581988.4188789,
-      "abs_net_dex": 616547081.9082935
-    },
-    {
-      "strike": 26700,
-      "net_dex": -562996135.0951812,
-      "call_dex": 23125440.438266832,
-      "put_dex": -586121575.5334481,
-      "abs_net_dex": 562996135.0951812
-    },
-    {
-      "strike": 26200,
-      "net_dex": -561723976.6026441,
-      "call_dex": 1176315.9655639683,
-      "put_dex": -562900292.5682081,
-      "abs_net_dex": 561723976.6026441
+      "strike": 25300,
+      "net_dex": 43841854.21210362,
+      "call_dex": 47238958.15355596,
+      "put_dex": -3397103.941452338,
+      "abs_net_dex": 43841854.21210362
     },
     {
       "strike": 26500,
-      "net_dex": -504683212.7974349,
-      "call_dex": 1915820.474595474,
-      "put_dex": -506599033.2720304,
-      "abs_net_dex": 504683212.7974349
+      "net_dex": 40198734.39920207,
+      "call_dex": 76542170.19485974,
+      "put_dex": -36343435.79565767,
+      "abs_net_dex": 40198734.39920207
     }
   ],
-  "avg_iv": 4.119507531065848,
+  "avg_iv": 3.343886448808289,
   "included_expiries": [
-    "2026-11-20"
+    "2026-11-23"
   ],
   "chain_source": "insiderfinance",
   "spot_source": "insiderfinance",
-  "source_timestamp": "2026-11-20T21:00:00+00:00",
+  "source_timestamp": "2026-11-23T21:16:07.715897090+00:00",
   "source_is_stale": false,
   "fetch_source": "api",
   "iv_cboe_count": 0,
@@ -196,6 +196,6 @@
   "volume_source": "unavailable",
   "volume_error": "403 Client Error: Forbidden for url: https://cdn-api.cboe.com/api/global/delayed_quotes/options/_NDX.json",
   "volume_cboe_count": 0,
-  "volume_unavailable_count": 491,
+  "volume_unavailable_count": 980,
   "volume_timestamp": null
 }
